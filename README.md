@@ -29,6 +29,3 @@
 
 이용 템플릿 : https://v0.app/templates/differing-effect-resume-template-wvXzAf0NBYB
 리액트 공부 겸 직접 디자인 하는 방안도 있다고 생각하였으나, 일단 전반적인 웹개발에서의 학습을 위해 템플릿을 이용하기로 결정.
-
-
-
